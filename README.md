@@ -20,6 +20,7 @@ GTM
 - Facilitator: @jbalcerol
 
 - Facilitator:@JORGE SALAZAR
+- Facilitator:@eggp73
 
 
 ## Class Resourceskk
