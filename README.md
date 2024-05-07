@@ -21,7 +21,6 @@
 =======
 - Facilitator: @HeidiSanchez
 - Facilitator: @dianuser
->>>>>>> 19d1052e0df5b47dd2f7033fd8633be8e7f91b7b
 
 ## Class Resources
 
