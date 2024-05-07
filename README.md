@@ -1,4 +1,5 @@
 # GitHub for Developers
+#cAPACITACION github - 07MAY2024
 
 - Class Date: THIS-DATE
 - Facilitator: @TEACHER-HANDLE
