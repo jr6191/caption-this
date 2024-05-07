@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-- Facilitator: @alejo1967 Dian v.50
+- Facilitator: rsangar25
 
 ## Class Resources
 
