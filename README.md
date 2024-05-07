@@ -62,6 +62,7 @@ GTM
 - Facilitator:@JORGE SALAZAR
 - Facilitator:@eggp73
 
+- Facilitator: @TEACHER-HANDLE
 
 ## Class Resources
 
