@@ -13,7 +13,7 @@
 - Facilitator: @Sustancial
 - Facilitator: @TEACHER-HANDLE mod 1
 - Facilitator: @HeidiSanchez
-- Facilitator: @eggp
+- Facilitator: @eggp73
 
 ## Class Resources
 
