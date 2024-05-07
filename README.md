@@ -13,7 +13,7 @@
 <details>
 
 <summary>More helpful links including videos, cheat sheets, and visualization tools</summary>
-
+Linea introducida por jorge
 #### Git
 
 - [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
