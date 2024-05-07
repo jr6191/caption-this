@@ -10,13 +10,20 @@
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
 - Facilitator01: @prozoc afa arriba jcortes Tamaguchi
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+<<<<<<< HEAD
 >>>>>>> f840d0b1f912dc2e72e09886a97e334ef85762b1
 - Facilitator01: @prozoc afa arriba jcortes
+=======
+- Facilitator01: @prozoc afa arriba jcortes jjjj 
+>>>>>>> 6bbd4585d3411db30467448b9c3da7fc05d8099e
 - Facilitator: @prozoclocal
 - Facilitator: @dianuser
 - Facilitator01: @prozoc , @jcollanter
+- Class Date: THIS-DATEjjjjj
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
 - Facilitator: @Sustancial
 - Facilitator: @TEACHER-HANDLE mod 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 - Facilitator: @HeidiSanchez
 - Facilitator: @dianuser
@@ -24,10 +31,13 @@
 >>>>>>> 40eb045d0219ea6f7144534177cbe2027549caf5
 =======
 >>>>>>> f840d0b1f912dc2e72e09886a97e334ef85762b1
+=======
+- Facilitator: @HeidiSanchez
+>>>>>>> 6bbd4585d3411db30467448b9c3da7fc05d8099e
 
 ## Class Resources
 
-- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
+- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)llllllllll
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
 ### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
