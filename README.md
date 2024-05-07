@@ -1,6 +1,7 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
+- Facilitator: @dianuser
 - Facilitator: @apereap
 
 ## Class Resources
