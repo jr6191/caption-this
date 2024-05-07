@@ -4,6 +4,8 @@
 - Facilitator01: @prozoc
 - Facilitator: @Sustancial
 - Facilitator: @TEACHER-HANDLE mod 1
+- Facilitator: @eggp73
+
 
 ## Class Resources
 
