@@ -7,14 +7,9 @@
 - Facilitator01: @prozoc afa arriba jcortes
 - Facilitator: @prozoclocal
 - Facilitator: @dianuser
-- Facilitator01: @prozoc
+- Facilitator01: @prozoc , @jcollanter
 - Facilitator: @Sustancial
 - Facilitator: @TEACHER-HANDLE mod 1
-- Facilitator: @HeidiSanchez
-- Facilitator: @dianuser
-- Facilitator: JORGE SALAZAR
-- Facilitator: @jayalaa
-- Facilitator: @dianuser
 
 ## Class Resources
 
