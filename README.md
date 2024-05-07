@@ -60,7 +60,7 @@ After you have completed this course, you are probably wondering where to go fro
 - [Join the open source community](https://github.com/open-source)
 
 
-[Modificación 2024/07/05
+- [Modificación 2024/07/05
 Modificar archivo cambios 2024-05-07
 
 Prueba cambio nuevo
