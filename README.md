@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-- Facilitator: @ovasquez
+- Facilitator: @jbalcerol@dian.gov.co
 - Facilitator: @jbalcerol@dian.gov.co
 
 ## Class Resources
