@@ -1,12 +1,20 @@
 # GitHub for Developers
 
+- Class Date: THIS-DATE
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes Tamaguchi
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes
+- Facilitator: @prozoclocal
+- Facilitator: @dianuser
+- Facilitator01: @prozoc , @jcollanter
 - Class Date: THIS-DATEjjjjj
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
 - Facilitator: @Sustancial
 - Facilitator: @TEACHER-HANDLE mod 1
 - Facilitator: @HeidiSanchez
-- Facilitator: @dianuserññññññññññññññ
-vvvvvvvvvvvvvvvvvvvvvvvvvvv
+- Facilitator: @dianuser
+
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)llllllllll
