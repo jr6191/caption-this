@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE mod csegura
+- Facilitator: @TEACHER-HANDLE
 
 ## Class Resources
 
