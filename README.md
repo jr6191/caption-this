@@ -5,7 +5,7 @@
 
 ## Class Resources
 
-- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)llllllllll
+- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
 ### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
