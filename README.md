@@ -12,6 +12,7 @@
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
 - Facilitator: @Sustancial
 - Facilitator: @TEACHER-HANDLE mod 1
+- Facilitator: @HeidiSanchez
 - Facilitator: @TEACHER-HANDLE - jlopezr2_local
 - Facilitator: @jbalcerol
 
