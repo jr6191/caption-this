@@ -3,6 +3,7 @@
 - Class Date: THIS-DATE
 - Facilitator: @Hsanchezc2
 - Facilitator: @Sustancial
+- Facilitator: @eggp73
 
 ## Class Resources
 
