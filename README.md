@@ -14,42 +14,19 @@ GTM
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
 - Facilitator: @Sustancial
 - Facilitator: @TEACHER-HANDLE mod 1
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 - Facilitator: @HeidiSanchez
 - Facilitator: @dianuser
 - Facilitator: JORGE SALAZAR
 <<<<<<< HEAD
 - Facilitator: @MCV
-=======
 - Facilitator: @jayalaa
 - Facilitator: @dianuser
->>>>>>> 7959434d00914f0a0b4983061875424f8409d9bb
-=======
->>>>>>> f840d0b1f912dc2e72e09886a97e334ef85762b1
-=======
 - Facilitator: @HeidiSanchez
 - Facilitator:JORGE SALAZAR
-=======
-=======
-- Facilitator: @HeidiSanchez
->>>>>>> cc84df9a997de334678a67c44f0429eb2d02a72a
-- Facilitator: @TEACHER-HANDLE - jlopezr2_local
-<<<<<<< HEAD
-- Facilitator: @jayalaa 
->>>>>>> 62a93e8c9835203812232839788e66577774140d
-=======
+= Facilitator: @HeidiSanchez
+- Facilitator: @TEACHER-HANDLE - jlopezr2_local2
 - Facilitator: @jbalcerol
->>>>>>> 9828c58088b667fa9e41973f6311b4f90e73fadc
-
-<<<<<<< HEAD
->>>>>>> cc207da34c77fc5223d369efdb3585ffc7bbc9e2
-=======
 - Facilitator:@JORGE SALAZAR
-
->>>>>>> 265bf0e314b46ce2b9e4d29170290f7b5b8e9535
 
 ## Class Resourceskk
 
