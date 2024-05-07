@@ -8,6 +8,8 @@
 - Facilitator01: @prozoc , @jcollanter
 - Facilitator: @Sustancial
 - Facilitator: @TEACHER-HANDLE mod 1
+- Facilitator: @eggp73
+
 
 ## Class Resources
 
