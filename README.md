@@ -35,8 +35,12 @@
 - Facilitator: @HeidiSanchez
 >>>>>>> cc84df9a997de334678a67c44f0429eb2d02a72a
 - Facilitator: @TEACHER-HANDLE - jlopezr2_local
+<<<<<<< HEAD
 - Facilitator: @jayalaa 
 >>>>>>> 62a93e8c9835203812232839788e66577774140d
+=======
+- Facilitator: @jbalcerol
+>>>>>>> 9828c58088b667fa9e41973f6311b4f90e73fadc
 
 >>>>>>> cc207da34c77fc5223d369efdb3585ffc7bbc9e2
 
