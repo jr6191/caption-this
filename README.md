@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-- Facilitator: @omarvasquezv2
+- Facilitator: @omarvasquezv2-v3
 
 ## Class Resources
 
