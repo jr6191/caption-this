@@ -1,39 +1,7 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-<<<<<<< HEAD
-<<<<<<< HEAD
-- Facilitator: @dianuser afa abajo
-=======
-- Facilitator01: @prozoc afa arriba jcortes DevDavid.com
-=======
-- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
-- Facilitator01: @prozoc afa arriba jcortes Tamaguchi
-- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
-<<<<<<< HEAD
->>>>>>> f840d0b1f912dc2e72e09886a97e334ef85762b1
-- Facilitator01: @prozoc afa arriba jcortes
-=======
-- Facilitator01: @prozoc afa arriba jcortes jjjj 
->>>>>>> 6bbd4585d3411db30467448b9c3da7fc05d8099e
-- Facilitator: @prozoclocal
-- Facilitator: @dianuser
-- Facilitator01: @prozoc , @jcollanter
-- Class Date: THIS-DATEjjjjj
-- Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
-- Facilitator: @Sustancial
-- Facilitator: @TEACHER-HANDLE mod 1
-<<<<<<< HEAD
-<<<<<<< HEAD
-- Facilitator: @HeidiSanchez
-- Facilitator: @dianuser
-- Facilitator: JORGE SALAZAR
->>>>>>> 40eb045d0219ea6f7144534177cbe2027549caf5
-=======
->>>>>>> f840d0b1f912dc2e72e09886a97e334ef85762b1
-=======
-- Facilitator: @HeidiSanchez
->>>>>>> 6bbd4585d3411db30467448b9c3da7fc05d8099e
+- Facilitator01: @Teacher
 
 ## Class Resources
 
@@ -91,6 +59,6 @@ After you have completed this course, you are probably wondering where to go fro
 - [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
 - [Join the open source community](https://github.com/open-source)
 
-
+#### Auxilio no modifiquen más
 
 Esto es una prueba ovasquez
