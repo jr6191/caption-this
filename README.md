@@ -2,7 +2,7 @@
 
 - Class Date: THIS-DATE
 - Facilitator: @TEACHER-HANDLE
-
+## CSEGURA mod 1
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
