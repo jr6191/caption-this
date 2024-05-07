@@ -1,7 +1,8 @@
-# GitHub for Developers
+# GitHub for Developers  
+NO MAS CAMBIOS
+GTM
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE newracg
+
 
 ## Class Resources
 
