@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers  
 
 - Class Date: THIS-DATE
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
@@ -15,9 +15,9 @@
 - Facilitator: @HeidiSanchez
 - Facilitator: @eggp73
 
-## Class Resources
+## Class Resourceskk
 
-- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)llllllllll
+- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
 ### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
@@ -71,6 +71,6 @@ After you have completed this course, you are probably wondering where to go fro
 - [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
 - [Join the open source community](https://github.com/open-source)
 
-
+#### Auxilio no modifiquen más
 
 Esto es una prueba ovasquez
