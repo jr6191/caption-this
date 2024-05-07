@@ -2,7 +2,7 @@
 
 - Class Date: THIS-DATE
 - Facilitator: @ovasquez
-- Facilitator: @dianuser
+- Facilitator: @jbalcerol@dian.gov.co
 
 ## Class Resources
 
