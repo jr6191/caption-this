@@ -1,5 +1,7 @@
 # GitHub for Developers  
 
+GTM
+
 - Class Date: THIS-DATE
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
 - Facilitator01: @prozoc afa arriba jcortes Tamaguchi
@@ -15,6 +17,8 @@
 - Facilitator: @HeidiSanchez
 - Facilitator: @TEACHER-HANDLE - jlopezr2_local2
 - Facilitator: @jbalcerol
+
+- Facilitator:@JORGE SALAZAR
 
 
 ## Class Resourceskk
