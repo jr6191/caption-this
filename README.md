@@ -8,8 +8,10 @@
 - Facilitator: @prozoclocal
 - Facilitator: @dianuser
 - Facilitator01: @prozoc , @jcollanter
+- Facilitator: @DevDavid
 - Facilitator: @Sustancial
 - Facilitator: @TEACHER-HANDLE mod 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 - Facilitator: @HeidiSanchez
 - Facilitator: @dianuser
@@ -22,6 +24,11 @@
 >>>>>>> 7959434d00914f0a0b4983061875424f8409d9bb
 =======
 >>>>>>> f840d0b1f912dc2e72e09886a97e334ef85762b1
+=======
+- Facilitator: @HeidiSanchez
+- Facilitator:JORGE SALAZAR
+
+>>>>>>> cc207da34c77fc5223d369efdb3585ffc7bbc9e2
 
 ## Class Resources
 
