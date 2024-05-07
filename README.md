@@ -18,7 +18,6 @@ GTM
 - Facilitator: @HeidiSanchez
 - Facilitator: @TEACHER-HANDLE - jlopezr2_local2
 - Facilitator: @jbalcerol
-
 - Facilitator:@JORGE SALAZAR
 
 
