@@ -10,6 +10,7 @@
 - Facilitator01: @prozoc , @jcollanter
 - Facilitator: @Sustancial
 - Facilitator: @TEACHER-HANDLE mod 1
+- Facilitator: @HeidiSanchez
 
 ## Class Resources
 
