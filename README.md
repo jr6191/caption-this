@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-- Facilitator: @dianuser
+- Facilitator: @dianuser afa abajo
 
 ## Class Resources
 
