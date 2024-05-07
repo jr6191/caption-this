@@ -1,9 +1,11 @@
-# GitHub for Developers
+# GitHub for Developers  
+
+jjjj
 
 - Class Date: THIS-DATE
 - Facilitator01: @Teacher
 
-## Class Resources
+## Class Resourceskk
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
