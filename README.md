@@ -3,6 +3,9 @@
 - Class Date: THIS-DATE
 - Facilitator: @prozoclocal
 - Facilitator: @dianuser
+- Facilitator01: @prozoc
+- Facilitator: @Sustancial
+- Facilitator: @TEACHER-HANDLE mod 1
 
 ## Class Resources
 
