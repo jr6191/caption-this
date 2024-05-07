@@ -1,16 +1,18 @@
-# GitHub for Developers
+# GitHub for Developers  
 
 - Class Date: THIS-DATE
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
 - Facilitator01: @prozoc afa arriba jcortes Tamaguchi
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
-- Facilitator01: @prozoc afa arriba jcortes
+- Facilitator01: @prozoc afa arriba jcortes jjjj 
 - Facilitator: @prozoclocal
 - Facilitator: @dianuser
 - Facilitator01: @prozoc , @jcollanter
-- Facilitator: @DevDavid
+- Class Date: THIS-DATEjjjjj
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
 - Facilitator: @Sustancial
 - Facilitator: @TEACHER-HANDLE mod 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 - Facilitator: @HeidiSanchez
@@ -27,10 +29,14 @@
 =======
 - Facilitator: @HeidiSanchez
 - Facilitator:JORGE SALAZAR
+=======
+- Facilitator: @TEACHER-HANDLE - jlopezr2_local
+- Facilitator: @jayalaa 
+>>>>>>> 62a93e8c9835203812232839788e66577774140d
 
 >>>>>>> cc207da34c77fc5223d369efdb3585ffc7bbc9e2
 
-## Class Resources
+## Class Resourceskk
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
@@ -86,6 +92,6 @@ After you have completed this course, you are probably wondering where to go fro
 - [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
 - [Join the open source community](https://github.com/open-source)
 
-
+#### Auxilio no modifiquen más
 
 Esto es una prueba ovasquez
