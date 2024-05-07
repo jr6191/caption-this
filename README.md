@@ -43,6 +43,10 @@ GTM
 - Facilitator: @jbalcerol
 - Facilitator:@JORGE SALAZAR
 
+
+## CSEGURA mod 1
+## Class Resourceskk
+
 - Class Date: THIS-DATE
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
 - Facilitator01: @prozoc afa arriba jcortes Tamaguchi
@@ -66,6 +70,7 @@ GTM
 - Facilitator: @TEACHER-HANDLE
 
 ## Class Resources
+
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
@@ -128,5 +133,20 @@ GustavoActualizacion
 Modificar archivo cambios 2024-05-07
 ###jcortesl
 
+
+Esto es una prueba ovasquez
+
+#### Auxilio no modifiquen más
+
+Esto es una prueba ovasquez
+
+HOLA GITHUB
+
+
+jcollanter
+
+jcollanterV2
+
 Prueba cambio nuevo
 ### Modificación desde VSCode, verificar PUSH
+
