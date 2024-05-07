@@ -1,15 +1,15 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator01: @prozoc afa arriba jcortes DevDavid.com
+- Class Date: THIS-DATEjjjjj
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
 - Facilitator: @Sustancial
 - Facilitator: @TEACHER-HANDLE mod 1
 - Facilitator: @HeidiSanchez
-- Facilitator: @dianuser
-
+- Facilitator: @dianuserññññññññññññññ
+vvvvvvvvvvvvvvvvvvvvvvvvvvv
 ## Class Resources
 
-- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
+- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)llllllllll
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
 ### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
