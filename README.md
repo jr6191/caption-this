@@ -63,7 +63,7 @@ GTM
 - Facilitator:@eggp73
 
 
-## Class Resourceskk
+## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
@@ -119,6 +119,9 @@ After you have completed this course, you are probably wondering where to go fro
 - [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
 - [Join the open source community](https://github.com/open-source)
 
-#### Auxilio no modifiquen más
+alexandra corredor estuvo aqui
 
-Esto es una prueba ovasquez
+
+Esto es una prueba jonathanlr87
+
+esto es un cambio de versionev
