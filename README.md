@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Facilitator: @alejo1967ok
 
 ## Class Resources
 
@@ -13,7 +13,7 @@
 <details>
 
 <summary>More helpful links including videos, cheat sheets, and visualization tools</summary>
-
+Linea introducida por jorge
 #### Git
 
 - [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
@@ -58,3 +58,4 @@ After you have completed this course, you are probably wondering where to go fro
 - [GitHub Learning Lab](https://lab.github.com/): self-paced courses with instant bot-assisted feedback.
 - [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
 - [Join the open source community](https://github.com/open-source)
+--hola--
