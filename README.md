@@ -16,7 +16,7 @@ GTM
 - Facilitator: @Sustancial
 - Facilitator: @TEACHER-HANDLE mod 1
 - Facilitator: @HeidiSanchez
-- Facilitator: @TEACHER-HANDLE - jlopezr2_local
+- Facilitator: @TEACHER-HANDLE - jlopezr2_local2
 - Facilitator: @jbalcerol
 
 - Facilitator:@JORGE SALAZAR
