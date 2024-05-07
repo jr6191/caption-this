@@ -3,9 +3,11 @@ NO MAS CAMBIOS
 GTM
 4
 
-GTM
+- Class Date: THIS-DATE
+- Facilitator01: @teacher
 
 - Class Date: THIS-DATE
+- Facilitator: @omarvasquezv2-v3
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
 - Facilitator01: @prozoc afa arriba jcortes Tamaguchi
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
@@ -23,9 +25,46 @@ GTM
 - Facilitator:@JORGE SALAZAR
 
 - Class Date: THIS-DATE
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes Tamaguchi
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes jjjj 
+- Facilitator01: @prozoc afa arriba jcortes larciniegasr
+- Facilitator: @prozoclocal
+- Facilitator: @dianuser
+- Facilitator01: @prozoc , @jcollanter
+- Class Date: THIS-DATEjjjjj
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
+- Facilitator: @Sustancial
+- Facilitator: @TEACHER-HANDLE mod 1
+- Facilitator: @HeidiSanchez
+- Facilitator: @TEACHER-HANDLE - jlopezr2_local2
+- Facilitator: @jbalcerol
+- Facilitator:@JORGE SALAZAR
+
+- Class Date: THIS-DATE
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes Tamaguchi
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes jjjj 
+- Facilitator01: @prozoc afa arriba jcortes larciniegasr
+- Facilitator: @prozoclocal
+- Facilitator: @dianuser
+- Facilitator01: @prozoc , @jcollanter
+- Class Date: THIS-DATEjjjjj
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
+- Facilitator: @Sustancial
+- Facilitator: @TEACHER-HANDLE mod 1
+- Facilitator: @HeidiSanchez
+- Facilitator: @TEACHER-HANDLE - jlopezr2_local2
+- Facilitator: @jbalcerol
+
+- Facilitator:@JORGE SALAZAR
+- Facilitator:@eggp73
+
 - Facilitator: @TEACHER-HANDLE
 
-## Class Resourceskk
+## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
