@@ -1,7 +1,5 @@
 # GitHub for Developers  
 
-jjjj
-
 - Class Date: THIS-DATE
 - Facilitator01: @Teacher
 
