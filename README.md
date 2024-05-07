@@ -1,9 +1,47 @@
-# GitHub for Developers
+# GitHub for Developers  
+NO MAS CAMBIOS
+GTM
+4
+
+GTM
 
 - Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes Tamaguchi
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes jjjj 
+- Facilitator01: @prozoc afa arriba jcortes larciniegasr
+- Facilitator: @prozoclocal
+- Facilitator: @dianuser
+- Facilitator01: @prozoc , @jcollanter
+- Facilitator: @Sustancial
+- Facilitator: @TEACHER-HANDLE mod 1
+- Facilitator: @HeidiSanchez
+- Facilitator: @TEACHER-HANDLE - jlopezr2_local2
+- Facilitator: @jbalcerol
 
-## Class Resources
+- Facilitator:@JORGE SALAZAR
+
+- Class Date: THIS-DATE
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes Tamaguchi
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes jjjj 
+- Facilitator01: @prozoc afa arriba jcortes larciniegasr
+- Facilitator: @prozoclocal
+- Facilitator: @dianuser
+- Facilitator01: @prozoc , @jcollanter
+- Class Date: THIS-DATEjjjjj
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
+- Facilitator: @Sustancial
+- Facilitator: @TEACHER-HANDLE mod 1
+- Facilitator: @HeidiSanchez
+- Facilitator: @TEACHER-HANDLE - jlopezr2_local2
+- Facilitator: @jbalcerol
+- Facilitator:@JORGE SALAZAR
+
+
+## Class Resourceskk
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
@@ -59,11 +97,6 @@ After you have completed this course, you are probably wondering where to go fro
 - [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
 - [Join the open source community](https://github.com/open-source)
 
+#### Auxilio no modifiquen más
 
-
-
-Capacitacion DIAN
-
-Modificado por pedro rozo
-
-modificacion v2
+Esto es una prueba ovasquez
