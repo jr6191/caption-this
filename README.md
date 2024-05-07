@@ -2,6 +2,8 @@
 
 - Class Date: THIS-DATE
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes Tamaguchi
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
 - Facilitator01: @prozoc afa arriba jcortes
 - Facilitator: @prozoclocal
 - Facilitator: @dianuser
@@ -11,6 +13,8 @@
 - Facilitator: @HeidiSanchez
 - Facilitator: @dianuser
 - Facilitator: JORGE SALAZAR
+- Facilitator: @jayalaa
+- Facilitator: @dianuser
 
 ## Class Resources
 
