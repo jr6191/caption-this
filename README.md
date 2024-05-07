@@ -1,6 +1,7 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
+- Facilitator01: @prozoc afa arriba jcortes
 - Facilitator: @prozoclocal
 - Facilitator: @dianuser
 - Facilitator01: @prozoc
