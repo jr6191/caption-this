@@ -21,6 +21,7 @@ GTM
 - Facilitator: @HeidiSanchez
 - Facilitator: @TEACHER-HANDLE - jlopezr2_local2
 - Facilitator: @jbalcerol
+- Facilitator: @avargasd
 
 - Facilitator:@JORGE SALAZAR
 #cAPACITACION github - 07MAY2024
