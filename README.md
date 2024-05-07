@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-- Facilitator: @TVSTUDIO
+- Facilitator: @TVSTUDIOhhhhhhhhhhhhhh
 
 ## Class Resources
 
