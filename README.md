@@ -1,10 +1,6 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-<<<<<<< HEAD
-- Facilitator: @prozoc
-- Facilitator: @Cambio_local1
-=======
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
 - Facilitator01: @prozoc afa arriba jcortes Tamaguchi
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
@@ -78,6 +74,6 @@ After you have completed this course, you are probably wondering where to go fro
 - [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
 - [Join the open source community](https://github.com/open-source)
 
-
+#### Auxilio no modifiquen más
 
 Esto es una prueba ovasquez
