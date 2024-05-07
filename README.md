@@ -2,7 +2,7 @@
 
 - Class Date: THIS-DATE
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com Tamagol
-- Facilitator01: @prozoc afa arriba jcortes
+- Facilitator01: @prozoc afa arriba jcortes Tamaguchi
 - Facilitator: @prozoclocal
 - Facilitator: @dianuser
 - Facilitator01: @prozoc
