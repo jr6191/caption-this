@@ -4,20 +4,19 @@
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
 - Facilitator01: @prozoc afa arriba jcortes Tamaguchi
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
-- Facilitator01: @prozoc afa arriba jcortes
+- Facilitator01: @prozoc afa arriba jcortes jjjj 
 - Facilitator: @prozoclocal
 - Facilitator: @dianuser
 - Facilitator01: @prozoc , @jcollanter
-- Facilitator: @DevDavid
+- Class Date: THIS-DATEjjjjj
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com visual
 - Facilitator: @Sustancial
 - Facilitator: @TEACHER-HANDLE mod 1
 - Facilitator: @HeidiSanchez
-- Facilitator: @eggp73
-
 
 ## Class Resources
 
-- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
+- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)llllllllll
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
 ### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
