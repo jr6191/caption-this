@@ -13,7 +13,7 @@
 - Facilitator: @Sustancial
 - Facilitator: @TEACHER-HANDLE mod 1
 - Facilitator: @TEACHER-HANDLE - jlopezr2_local
-- Facilitator: @jayalaa 
+- Facilitator: @jbalcerol
 
 
 ## Class Resourceskk
