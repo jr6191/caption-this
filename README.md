@@ -5,7 +5,7 @@
 - Facilitator01: @prozoc afa arriba jcortes Tamaguchi
 - Facilitator: @prozoclocal
 - Facilitator: @dianuser
-- Facilitator01: @prozoc , @jcollanter
+- Facilitator01: @prozoc , @jcollanter, @jcollanter
 - Facilitator: @Sustancial
 - Facilitator: @TEACHER-HANDLE mod 1
 - Facilitator: @HeidiSanchez
