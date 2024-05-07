@@ -8,8 +8,6 @@
 - Facilitator01: @prozoc
 - Facilitator: @Sustancial
 - Facilitator: @TEACHER-HANDLE mod 1
-- Facilitator: @HeidiSanchez
-- Facilitator: @dianuser
 
 ## Class Resources
 
