@@ -1,7 +1,20 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
+<<<<<<< HEAD
 - Facilitator: @dianuser afa abajo
+=======
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com
+- Facilitator01: @prozoc afa arriba jcortes
+- Facilitator: @prozoclocal
+- Facilitator: @dianuser
+- Facilitator01: @prozoc
+- Facilitator: @Sustancial
+- Facilitator: @TEACHER-HANDLE mod 1
+- Facilitator: @HeidiSanchez
+- Facilitator: @dianuser
+- Facilitator: JORGE SALAZAR
+>>>>>>> 40eb045d0219ea6f7144534177cbe2027549caf5
 
 ## Class Resources
 
