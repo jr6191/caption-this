@@ -2,19 +2,28 @@
 
 - Class Date: THIS-DATE
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Facilitator: @dianuser afa abajo
 =======
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com
+=======
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+- Facilitator01: @prozoc afa arriba jcortes Tamaguchi
+- Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
+>>>>>>> f840d0b1f912dc2e72e09886a97e334ef85762b1
 - Facilitator01: @prozoc afa arriba jcortes
 - Facilitator: @prozoclocal
 - Facilitator: @dianuser
-- Facilitator01: @prozoc
+- Facilitator01: @prozoc , @jcollanter
 - Facilitator: @Sustancial
 - Facilitator: @TEACHER-HANDLE mod 1
+<<<<<<< HEAD
 - Facilitator: @HeidiSanchez
 - Facilitator: @dianuser
 - Facilitator: JORGE SALAZAR
 >>>>>>> 40eb045d0219ea6f7144534177cbe2027549caf5
+=======
+>>>>>>> f840d0b1f912dc2e72e09886a97e334ef85762b1
 
 ## Class Resources
 
