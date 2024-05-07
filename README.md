@@ -2,7 +2,7 @@
 
 - Class Date: THIS-DATE
 - Facilitator: @prozoc
-- Facilitator: @Sustancial
+- Facilitator: @Cambio_local
 
 ## Class Resources
 
