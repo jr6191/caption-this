@@ -23,6 +23,11 @@ GTM
 - Facilitator: @jbalcerol
 
 - Facilitator:@JORGE SALAZAR
+#cAPACITACION github - 07MAY2024
+
+
+CAMBIO LARCINIEGASR 
+CAMBIO PARTE2 LABORATORIO
 
 - Class Date: THIS-DATE
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
@@ -44,7 +49,13 @@ GTM
 - Facilitator:@JORGE SALAZAR
 
 
-## CSEGURA mod 1
+- Class Date: THIS-DATE
+- Facilitator: @TEACHER-HANDLE
+
+
+## Class Resources
+
+# CSEGURA mod 1
 ## Class Resourceskk
 #JFA
 # GitHub for Developers
@@ -128,6 +139,8 @@ After you have completed this course, you are probably wondering where to go fro
 - [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
 - [Join the open source community](https://github.com/open-source)
 
+=======
+
 GustavoActualizacion
 
 - [Modificación 2024/07/05]
@@ -155,3 +168,4 @@ Prueba cambio nuevo
 
 
 Modificacion adicional al archivo
+
