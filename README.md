@@ -3,6 +3,7 @@
 - Class Date: THIS-DATE
 - Facilitator: @gpinzond
 - Facilitator: @Sustancial
+- Facilitator: @TEACHER-HANDLE mod 1
 
 ## Class Resources
 
