@@ -48,6 +48,7 @@ CAMBIO PARTE2 LABORATORIO
 - Facilitator: @TEACHER-HANDLE - jlopezr2_local2
 - Facilitator: @jbalcerol
 - Facilitator:@JORGE SALAZAR
+- Facilitator: @avargasd
 
 
 - Class Date: THIS-DATE
