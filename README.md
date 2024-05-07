@@ -6,6 +6,7 @@ GTM
 GTM
 
 - Class Date: THIS-DATE
+- Facilitator: @omarvasquezv2-v3
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
 - Facilitator01: @prozoc afa arriba jcortes Tamaguchi
 - Facilitator01: @prozoc afa arriba jcortes DevDavid.com 
