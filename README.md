@@ -123,7 +123,10 @@ After you have completed this course, you are probably wondering where to go fro
 
 GustavoActualizacion
 
+- [Modificación 2024/07/05]
+
+Modificar archivo cambios 2024-05-07
 ###jcortesl
 
-
-Cambio por Visual Studio
+Prueba cambio nuevo
+### Modificación desde VSCode, verificar PUSH
