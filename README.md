@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-- Facilitator01: @prozoc afa arriba jcortes
+- Facilitator01: @prozoc afa arriba jcortes larciniegasr
 - Facilitator: @Sustancial
 - Facilitator: @TEACHER-HANDLE mod 1
 
