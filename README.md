@@ -2,7 +2,7 @@
 
 - Class Date: THIS-DATE
 - Facilitator: rsangar25
-- Cambio readme prueba Jules
+- Cambio readme prueba1 Jules
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
