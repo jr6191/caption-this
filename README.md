@@ -1,8 +1,19 @@
 # GitHub for Developers
+wmartinezr
+
+- Class Date: Mayo 08 de 2024
+- Facilitator: will_i_am
+- Prueba de cambio - Credential manager
+- Prueba de segundo cambio - sign out otro usuario
+- Prueba otro cambio logeo wmr
+- Prueba otro cambio OK!!
+- 
+=======
 - cambio cz
 - Class Date: THIS-DATE
 - Facilitator: rsangar25
 - Cambio readme para otro caso
+ czang
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
