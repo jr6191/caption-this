@@ -1,8 +1,10 @@
 # GitHub for Developers
-
+- Author: Hugo Leonardo Barragán Bohórquez
 - Class Date: THIS-DATE
 - Facilitator: nhurtadop73
 - Cambio readme para otro caso
+- Facilitator: driquep version 3 cambio desde github
+- Cambio readme para otro caso h
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
