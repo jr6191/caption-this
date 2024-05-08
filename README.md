@@ -7,6 +7,7 @@ wmartinezr
 - Prueba de segundo cambio - sign out otro usuario
 - Prueba otro cambio logeo wmr
 - Prueba otro cambio OK!!
+- cambio en el editor en linea
 - 
 =======
 - cambio cz
