@@ -2,7 +2,7 @@
 
 - Class Date: Mayo 08 de 2024
 - Facilitator: will_i_am
-- Cambio readme para otro caso
+- Prueba de cambio - Credential manager
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
