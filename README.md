@@ -1,7 +1,7 @@
 # GitHub for Developers
 - Author: Hugo Leonardo Barragán Bohórquez
 - Class Date: THIS-DATE
-- Facilitator: rsangar25
+- Facilitator: rsangar25-v1HLBB
 - Cambio readme para otro caso
 ## Class Resources
 
