@@ -1,5 +1,5 @@
 # GitHub for Developers
-
+- Author: Hugo Barragán
 - Class Date: THIS-DATE
 - Facilitator: rsangar25
 - Cambio readme para otro caso
