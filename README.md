@@ -1,8 +1,8 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-- Facilitator: driquep
-- Cambio readme para otro caso
+- Facilitator: driquep version 2
+- Cambio readme para otro caso 
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
