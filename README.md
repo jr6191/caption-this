@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-- Facilitator: rsangar25
+- Facilitator: nhurtadop73
 - Cambio readme para otro caso
 ## Class Resources
 
@@ -62,4 +62,4 @@ After you have completed this course, you are probably wondering where to go fro
 
 ### modificado AFA V1
 
-Ajuste local
+Ajuste local 2
