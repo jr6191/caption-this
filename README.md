@@ -1,13 +1,32 @@
 -Wilson Vera
 # GitHub for Developers
+czang
+wmartinezr
+
+- Class Date: Mayo 08 de 2024
+- Facilitator: will_i_am
+- Prueba de cambio - Credential manager
+- Prueba de segundo cambio - sign out otro usuario
+- Prueba otro cambio logeo wmr
+- Prueba otro cambio OK!!
+- prueba comitters
+- este es mas nuevo
+- prueba fe
+=======
+- cambio cz
+=======
 - Author: Hugo Leonardo Barragán Bohórquez
+main
 - Class Date: THIS-DATE
 - Facilitator: nhurtadop73
-- Cambio readme para otro caso
+- Cambio readme para otro caso czang
+ czang
+=======
 - Facilitator: driquep version 3 cambio desde github
 - Cambio readme para otro caso h
 - Facilitator: nhurtadop
 - Cambio readme para otro caso Armand
+main
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
