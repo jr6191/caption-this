@@ -2,6 +2,8 @@
 
 - Class Date: THIS-DATE
 - Facilitator: ovasquez
+- Facilitator: rsangar25
+- Cambio readme para otro caso Armand
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
