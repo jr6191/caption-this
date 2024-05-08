@@ -3,6 +3,8 @@
 - Class Date: Mayo 08 de 2024
 - Facilitator: will_i_am
 - Prueba de cambio - Credential manager
+- Prueba de segundo cambio - sign out otro usuario
+
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
