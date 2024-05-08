@@ -4,6 +4,7 @@
 - Facilitator: will_i_am
 - Prueba de cambio - Credential manager
 - Prueba de segundo cambio - sign out otro usuario
+- Prueba otro cambio logeo wmr
 
 ## Class Resources
 
