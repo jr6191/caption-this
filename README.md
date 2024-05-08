@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: THIS-DATE
-- Facilitator: driquep
+- Facilitator: drique
 - Cambio readme para otro caso
 ## Class Resources
 
