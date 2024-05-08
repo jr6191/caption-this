@@ -7,7 +7,7 @@ wmartinezr
 - Prueba de segundo cambio - sign out otro usuario
 - Prueba otro cambio logeo wmr
 - Prueba otro cambio OK!!
-- 
+- otra prueba commiter
 =======
 - cambio cz
 - Class Date: THIS-DATE
