@@ -7,6 +7,7 @@ wmartinezr
 - Facilitator: Lehone_qa
 =======
 - Verificacion Change QA
+- Prueba intercaldao QA - dev
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
