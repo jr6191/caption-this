@@ -9,6 +9,7 @@ wmartinezr
 - Verificacion Change QA
 - Prueba intercaldao QA - dev
 - hour 4:21
+- e dev desde Qa
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
