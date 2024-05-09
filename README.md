@@ -4,12 +4,24 @@ czang
 wmartinezr
 
 - Class Date: Mayo 09 de 2024
+
 - Facilitator: Lehone_qa
-=======
+
 - Verificacion Change QA
 - Prueba intercaldao QA - dev
 - hour 4:21
 - e dev desde Qa
+
+
+- Facilitator: lehone_Dev
+
+
+- Chage Dev
+-Intrercalado dev qa
+
+Eliminacion rama dev
+
+
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
