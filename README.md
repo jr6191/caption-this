@@ -3,31 +3,10 @@
 czang
 wmartinezr
 
-- Class Date: Mayo 08 de 2024
-- Facilitator: will_i_am
-- Prueba de cambio - Credential manager
-- Prueba de segundo cambio - sign out otro usuario
-- Prueba otro cambio logeo wmr
-- Prueba otro cambio OK!!
-- prueba comitters
-- este es mas nuevohhhhh
-- prueba fe
+- Class Date: Mayo 09 de 2024
+- Facilitator: Lehone_qa
 =======
-- cambio cz
-=======
-- Author: Hugo Leonardo Barragán Bohórquez
-main
-- Class Date: THIS-DATE
-- Facilitator: nhurtadop73
-- Cambio readme para otro caso czang
- czang
-=======
-- Facilitator: driquep version 3 cambio desde github
-- Cambio readme para otro caso h
-- Facilitator: nhurtadop
-- Cambio readme para otro caso Armand
-- Un cambio realizado y solicitado por hdfabra
-main
+- Verificacion Change QA
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
