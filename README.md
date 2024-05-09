@@ -26,6 +26,7 @@ main
 - Cambio readme para otro caso h
 - Facilitator: nhurtadop
 - Cambio readme para otro caso Armand
+- Un cambio realizado y solicitado por hdfabra
 main
 ## Class Resources
 
