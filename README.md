@@ -8,6 +8,7 @@ wmartinezr
 
 =======
 - Chage Dev
+-Intrercalado dev qa
 =======
 
 ## Class Resources
