@@ -12,6 +12,7 @@ wmartinezr
 - hour 4:21
 - e dev desde Qa
 
+
 - Facilitator: lehone_Dev
 
 
