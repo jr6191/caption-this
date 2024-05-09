@@ -10,6 +10,7 @@ wmartinezr
 - Chage Dev
 -Intrercalado dev qa
 =======
+Eliminacion rama dev
 
 ## Class Resources
 
