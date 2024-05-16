@@ -1,7 +1,26 @@
+-Wilson Vera Villamizar 2
 # GitHub for Developers
+czang
+wmartinezr
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: Mayo 09 de 2024
+
+- Facilitator: Lehone_qa
+
+- Verificacion Change QA
+- Prueba intercaldao QA - dev
+- hour 4:21
+- e dev desde Qa
+
+
+- Facilitator: lehone_Dev
+
+
+- Chage Dev
+-Intrercalado dev qa
+
+Eliminacion rama dev
+
 
 ## Class Resources
 
@@ -58,3 +77,6 @@ After you have completed this course, you are probably wondering where to go fro
 - [GitHub Learning Lab](https://lab.github.com/): self-paced courses with instant bot-assisted feedback.
 - [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
 - [Join the open source community](https://github.com/open-source)
+
+
+### modificado AFA V1 modificado segunda vez 08052024
